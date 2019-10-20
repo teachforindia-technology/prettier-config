@@ -1,0 +1,23 @@
+{
+	"name": "tfi-prettier-config",
+	"version": "1.0.0",
+	"description": "Prettier config for all Teach For India projects",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/teachforindia-technology/prettier-config.git"
+	},
+	"keywords": [
+		"prettier",
+		"prettier-config"
+	],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/teachforindia-technology/prettier-config/issues"
+	},
+	"homepage": "https://github.com/teachforindia-technology/prettier-config#readme"
+}
